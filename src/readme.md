@@ -38,3 +38,7 @@ product(*set_list)
 
 The `*set_list` syntax unpacks the sets in `set_list`, passing them as separate arguments to the product function. It is equivalent to `product({1, 2, 3}, {4, 5, 6}, {7, 8})`, generating the Cartesian product of the sets.
 
+
+# types
+## find maximum value
+
